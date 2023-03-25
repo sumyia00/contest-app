@@ -1,0 +1,70 @@
+.bg{
+    background-image:url("../image/i.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-top:4rem;
+    min-height: 70vh;
+    border-width:10px;
+}
+.bg1{
+    background-image:url("../image/images2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-top:4rem;
+    min-height: 27vh;
+    border-width:10px;
+}
+.bg2{
+    background-image:url("../image/plant-trees-one-tree-768x292.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-top:4rem;
+    
+    min-height: 80vh;
+    border-width:7px;
+}
+.bg3{
+    background-image:url("../image/y.svg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-top:4rem;
+    
+    min-height: 67vh;
+    border-width:10px;
+}
+
+.bg4{
+    background-image:url("../image/m.jpg");
+   
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-top:30rem;
+    
+    
+    min-height: 60vh;
+    border-width:10px;
+}
+.bg5{
+    background-image:url("../image/1.jpeg");
+   
+    background-repeat:no-repeat;
+    background-position: center;
+   
+    
+    
+    min-height: 70vh;
+    border-width:7px;
+}
+.bg6{
+    background-image:url("../image/053.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    padding-top:4rem;
+    min-height: 70vh;
+    border-width:10px;
+}
