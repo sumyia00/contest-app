@@ -4,6 +4,7 @@ import Menu from './components/menu.js'
 import Add from './components/add.js'
 import Label from './components/optiondata.js'
 
+
 import { BrowserRouter, Routes, Route, Switch, Link } from 'react-router-dom';
 
 
@@ -16,7 +17,8 @@ function App() {
         <Route path="/score" element={<Score/>}/>
         <Route path="/menu" element={<Menu/>}/>
         <Route path="/add" element={<Add/>}/>
-        <Route path="/list" element={<Label/>}/>
+        <Route path="/list" element={<Label/>}/> 
+      
       </Routes>
       </BrowserRouter>   
     </div>

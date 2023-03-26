@@ -1,4 +1,5 @@
 import React, { useState, useEffect} from 'react';
+import { Link } from 'react-router-dom';
 
 function Label() {
 
@@ -54,9 +55,10 @@ function Label() {
       
       <br />
       <br />
-      <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-2 text-3xl rounded focus:outline-none focus:shadow-outline" type="button">
+      <Link class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-2 text-3xl rounded focus:outline-none focus:shadow-outline" to="/score">
                             submit
-                        </button>
+                        </Link>
+                        
 
       
     </div>

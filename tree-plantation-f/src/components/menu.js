@@ -20,7 +20,7 @@ const Menu = () => {
           <a href="/list" className="text-3xl block mt-4 lg:inline-block lg:mt-0 text-gray-500 hover:text-white mr-4">
             List
           </a>
-          <a href="#responsive-header" className="text-4xl block mt-4 lg:inline-block lg:mt-0 text-gray-500 hover:text-white">
+          <a href="/" className="text-4xl block mt-4 lg:inline-block lg:mt-0 text-gray-500 hover:text-white">
             Logout
           </a>
         </div>
